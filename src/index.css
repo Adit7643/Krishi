@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  font-family: "Quicksand", serif;
+}
+
+body{
+  background: #fff;
+  max-width: 1440px;
+  margin: auto;
+  border: "none";
+  
+}
